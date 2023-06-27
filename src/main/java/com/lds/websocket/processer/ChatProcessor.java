@@ -1,12 +1,10 @@
-package com.crazymaker.websocket.processer;
+package com.lds.websocket.processer;
 
-import com.crazymaker.websocket.Model.User;
-import com.crazymaker.websocket.session.ServerSession;
-import com.crazymaker.websocket.util.JsonUtil;
+import com.lds.websocket.Model.User;
+import com.lds.websocket.session.ServerSession;
+import com.lds.websocket.util.JsonUtil;
 import com.google.gson.reflect.TypeToken;
 import lombok.extern.slf4j.Slf4j;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.util.HashMap;

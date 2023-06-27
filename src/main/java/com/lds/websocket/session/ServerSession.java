@@ -1,7 +1,7 @@
-package com.crazymaker.websocket.session;
+package com.lds.websocket.session;
 
-import com.crazymaker.websocket.Model.User;
-import com.crazymaker.websocket.processer.ChatProcessor;
+import com.lds.websocket.Model.User;
+import com.lds.websocket.processer.ChatProcessor;
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.util.AttributeKey;

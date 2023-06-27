@@ -1,7 +1,7 @@
-package com.crazymaker.websocket.Web;
+package com.lds.websocket.Web;
 
-import com.crazymaker.websocket.Model.User;
-import com.crazymaker.websocket.session.SessionMap;
+import com.lds.websocket.Model.User;
+import com.lds.websocket.session.SessionMap;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

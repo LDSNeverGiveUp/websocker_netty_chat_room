@@ -1,9 +1,9 @@
-package com.crazymaker.websocket.netty;
+package com.lds.websocket.netty;
 
-import com.crazymaker.websocket.event.SecurityCheckSuccessEvent;
-import com.crazymaker.websocket.processer.ChatProcessor;
-import com.crazymaker.websocket.session.ServerSession;
-import com.crazymaker.websocket.session.SessionMap;
+import com.lds.websocket.event.SecurityCheckSuccessEvent;
+import com.lds.websocket.processer.ChatProcessor;
+import com.lds.websocket.session.ServerSession;
+import com.lds.websocket.session.SessionMap;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.handler.codec.http.websocketx.TextWebSocketFrame;

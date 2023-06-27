@@ -1,6 +1,6 @@
-package com.crazymaker.websocket;
+package com.lds.websocket;
 
-import com.crazymaker.websocket.netty.WebSocketServer;
+import com.lds.websocket.netty.WebSocketServer;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.crazymaker.websocket.Model;
+package com.lds.websocket.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

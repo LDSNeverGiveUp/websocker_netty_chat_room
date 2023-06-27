@@ -1,4 +1,4 @@
-package com.crazymaker.websocket.util;
+package com.lds.websocket.util;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

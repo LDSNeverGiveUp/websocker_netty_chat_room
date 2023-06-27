@@ -1,4 +1,4 @@
-package com.crazymaker.websocket.event;
+package com.lds.websocket.event;
 
 import lombok.Data;
 

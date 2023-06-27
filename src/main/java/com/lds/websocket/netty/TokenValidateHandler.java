@@ -1,6 +1,6 @@
-package com.crazymaker.websocket.netty;
+package com.lds.websocket.netty;
 
-import com.crazymaker.websocket.event.SecurityCheckSuccessEvent;
+import com.lds.websocket.event.SecurityCheckSuccessEvent;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.handler.codec.http.FullHttpMessage;

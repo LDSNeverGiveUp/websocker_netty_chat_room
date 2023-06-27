@@ -1,7 +1,7 @@
-package com.crazymaker.websocket.session;
+package com.lds.websocket.session;
 
-import com.crazymaker.websocket.Model.User;
-import com.crazymaker.websocket.util.JsonUtil;
+import com.lds.websocket.Model.User;
+import com.lds.websocket.util.JsonUtil;
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelFutureListener;

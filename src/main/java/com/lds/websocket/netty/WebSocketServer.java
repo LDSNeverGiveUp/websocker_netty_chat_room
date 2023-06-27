@@ -1,6 +1,6 @@
-package com.crazymaker.websocket.netty;
+package com.lds.websocket.netty;
 
-import com.crazymaker.websocket.session.SessionMap;
+import com.lds.websocket.session.SessionMap;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;
 import io.netty.channel.nio.NioEventLoopGroup;
